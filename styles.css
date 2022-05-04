@@ -1,0 +1,42 @@
+.box1 {
+  display: inline-block;
+  background-color: goldenrod;
+  height: 100px;
+  width: 100px;
+}
+.box2 {
+  display: inline-block;
+  background-color: royalblue;
+  height: 10vh;
+  width: 10vh;
+}
+.box3 {
+  display: inline-block;
+  background-color: brown;
+  height: 6.3em;
+  width: 6.3em;
+}
+.box4 {
+  display: inline-block;
+  background-color: navy;
+  height: 6.3rem;
+  width: 6.3rem;
+}
+.box5 {
+  display: inline-block;
+  background-color: aqua;
+  height: 5.4vw;
+  width: 5.4vw;
+}
+.container {
+  display: inline-block;
+  background-color: white;
+  height: 100px;
+  width: 100px;
+}
+.box6 {
+  display: inline-block;
+  background-color: hotpink;
+  height: 100%;
+  width: 100%;
+}
